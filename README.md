@@ -1,6 +1,6 @@
 # country-list
 
-This is a simple project for learning Quarkus. This has a REST GET & POST method for fetching countries and adding more countries
+This is a simple project for learning Quarkus with REST. This has a REST GET & POST method for fetching countries and adding more countries
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
